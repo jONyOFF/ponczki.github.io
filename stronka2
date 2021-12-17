@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+	<title>ponszek</title>
+     <style>
+	#container
+	{   width:1200px;
+		margin-left: auto;
+		margin-right: auto;
+		
+
+	}
+	#logo{
+		background-color: black;
+		color: white;
+		text-align: center;
+		padding:15px;}
+	#nav{
+		float:left;background: lightgray;
+		width:120px;
+		min-height:850px;
+		padding:10px;
+		color:red
+	}
+	#content{
+		float:left;
+		padding: 20px;
+		width:840px;
+	}
+	#ad{
+		float:left;
+		width:160px;
+		min-height:850px;
+		padding: 10px;
+		background-color:lightgray;
+	}
+	#footer{
+		clear: both;
+		background-color:black;
+		color:white;
+		text-align: center;
+		padding: 20px;
+	}
+
+	</style>
+</head>
+<body>
+	<div id ="container">
+		<div id="logo"><h1>LUBIE PONSZKI </h1>
+			</div>
+		<div id="nav"><b>
+			DLACZEGO LUBIE PONCZKI S LUKREM? ODPOWIEDŹ ZNAJDZIESZ W PRZEPISIE OBOK</b><br>
+			<img src="obrazek.jpg" width="120px" alt="ponczek"><img src="obrazek.jpg" width="120px" alt="ponczek"><img src="obrazek.jpg" width="120px" alt="ponczek"><img src="obrazek.jpg" width="120px" alt="ponczek"><img src="obrazek.jpg" width="120px" alt="ponczek">
+		</div>
+		<div id="content">
+			<h2>NAJLEPSZY PSZEPIS NA PONSZKI S LUKREM</h2>
+			<b>Składniki</b><br>
+500g mąki<br>250ml mleka<br>50g świeżych drożdży<br>4 żółtka<br>50gcukru<br>1 jajko<br>50g masła<br>25ml rumu<br>1 cytryna<br>1/2 laski wanilii<br>sól<br>olej do smażenia,ulubiona konfitura do pączków<br><br><b>Lukier</b><br>
+1,5 szklanki cukru pudru<br>
+skórka pomarańczowa (opcjonalnie)<br>
+1 żółtko<br>
+sok z 1/2 cytryny<br>
+sok z 1/2 pomarańczy<br><br>
+<b>Przygotowanie</b><br>
+Drożdże rozcieramy z 1 łyżką cukru, dodajemy połowę ciepłego mleka i 100g przesianej mąki. Mieszamy, przykrywamy i odstawiamy w ciepłe miejsce. Rozczyn powinien podwoić swoją objętość, u mnie trwało to ok. 35 minut.Cytrynę parzymy wrzątkiem, ścieramy skórkę i wyciskamy sok.Żółtka, jajko i cukier ucieramy na puszystą masę i dodajemy do wyrośniętego rozczynu. Dodajemy również: mleko, skórkę cytrynową, sok z cytryny, wanilię, rum, szczyptę soli oraz pozostałą mąkę.
+Wyrabiamy ciasto, aż zacznie odstawać od ręki. <br>Następnie dodajemy roztopione masło i ponownie wyrabiamy. Przykrywamy i odstawiamy do wyrośnięcia.Teraz formujemy pączki. Nabieramy po ok. 40g ciasta i natłuszczonymi palcami formujemy krążki. Na środek nakładamy łyżeczkę konfitury lub marmolady. Zlepiamy ciasto i formujemy kulkę, następnie układamy na desce posypanej mąką, zlepieniem do dołu, pamiętając o zachowaniu odstępów. Gdy ułożymy kilka sztuk na desce, lekko spłaszczamy kulki i odstawiamy do wyrośnięcia. Najlepiej w ciepłe miejsce.<br>W dużym rondlu lub na głębokiej patelni rozgrzewamy 1 litr oleju (lub smalcu). Na próbę wrzucamy kawałek ciasta, gdy zacznie się smażyć i wypłynie na powierzchnię, to znaczy, że temperatura jest już dobra.Wyrośnięte pączki wrzucamy do oleju zlepieniem do góry i smażymy, aż się zarumienią. Odwracamy je w trakcie smażenia by usmażyły się równo z każdej strony. Wierzchnia strona pączków może być nieco bardziej zarumieniona, gdyż będziemy je lukrować. Usmażone pączki wyjmujemy i osączamy z tłuszczu, następnie jeszcze ciepłe lukrujemy.<br>Przygotowujemy lukier pomarańczowo-cytrynowy. Cukier puder, żółtko i soki miksujemy razem przez ok. 3–4 minuty. Dodajemy pokrojoną skórkę pomarańczową. Gęstość lukru regulujemy ilością soku i cukru pudru według upodobań. Nie może być zbyt rzadki ponieważ cały spłynie z pączków. Czekamy aż lukier zastygnie i pączki są gotowe do jedzenia. <br>Smacznego!
+		</div>
+        <div id="ad">
+			 <img src="jony.jpg" width="160px"><b><br><br>
+			 jONy to początkujący webdeveloper<br><br><br>Jeszcze się uczy i bawi ale strony lubi<br><br>xD</b>
+		</div>
+	    <div id="footer">
+		 LUBIE PONSZKI &copy; Wszelkie prawa zastrzeżone<br>
+		 przepis pochodzi ze strony:<a href=" https://foodmag.pl/przepis/paczki-z-lukrem-pomaranczowo-cytrynowym/" target="_blank">foodmag</a>
+		 </div>
+
+		 
+   
+ </div>
+</body>
+</html>
